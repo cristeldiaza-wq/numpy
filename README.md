@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ¡Estoy feliz de hacer mi primera edición!
 
+=======
+¡Estoy feliz de hacer mi primera edición! 2
+>>>>>>> ac9586194e4cb3b675476e7f744b02c95c823d96
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
 </h1><br>
